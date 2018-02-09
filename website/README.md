@@ -10,4 +10,4 @@ The package includes some scripts to run on the websites.
 
 [Website](http://emojisandearthporn.com/)
 
-[Writeup](./emojisandearthporn.com/writeup.md)
+[Writeup](./emojisandearthporn.com/README.md)
